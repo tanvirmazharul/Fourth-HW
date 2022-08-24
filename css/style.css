@@ -1,0 +1,53 @@
+.header{
+	min-height: 100px;
+	font-size: 100px;
+	color: darkred;
+	background-color: yellow;
+}
+
+.BigBin{
+	overflow: hidden;
+}
+
+
+.one{
+	float: left;
+	width: 50%;
+	min-height: 300px;
+	background-color: red;
+}
+
+
+.two{
+	float: right;
+	width: 50%;
+	min-height: 300px;
+	background-color: green;
+}
+
+
+.box{
+	float: left;
+	height: 100px ;
+	width: 33.33%;
+}
+
+.orange{
+	background-color: orange;
+}
+
+.black{
+	background-color: black;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.footer{
+	min-height: 100px;
+	font-size: 100px;
+	color: darkred;
+	background-color: yellow;
+	/*clear: both;*/
+}
